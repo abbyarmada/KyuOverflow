@@ -43,4 +43,4 @@ exclude_paths:
 - spec/
 - test/
 - vendor/
-- "/%20"
+- "/ "
